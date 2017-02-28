@@ -33,9 +33,9 @@ You **must** include all features listed under the "Hangman Game View" and "Fini
 * A square-dimensioned UIImageView that represents the "state" of the Hangman, with appropriate images for each "state"
 
 ### Finished Game States, Start New Game ###
-- A win state, indicated by an Alert (Pop up box). This should prevent additional guesses
-- A fail state, indicated by an Alert (Pop up box). This should prevent additional guesses
-- A "Start Over" button, which starts a new game
+* A win state, indicated by an Alert (Pop up box). This should prevent additional guesses
+* A fail state, indicated by an Alert (Pop up box). This should prevent additional guesses)
+* A "Start Over" button, which starts a new game
 
 ### Optional Additions / Features ###
 * A smart way for the user to guess letters (since a TextField for letter entry isn't ideal UX).
@@ -46,9 +46,4 @@ You **must** include all features listed under the "Hangman Game View" and "Fini
 
 If you complete all of the required features you will get full credit. We will deduct points for missing features, bugs, and UI layout issues. If you impress us with additional features (see the Optional Features section), you may be awarded an additional extra credit point.
 
-**Note - though encouraged, you do not have to layout your app for horizontal phone orientations. However, TA's will be testing your apps using an arbitrarily picked simulator, so make sure your app layout is supported on all iOS Devices in the vertical orientation.** 
-
-
-To submit, please upload your code to either GitHub or Bitbucket, and use the "Github" or "Bitbucket" submission feature on Gradescope (we've experienced the fewest amount of bugs with students who have submitted this way). 
-
-Alternatively you can submit your project as a zip folder. To do this please open your ios-decal-proj1 folder in finder, and compress the contents inside (not the folder itself). This should generate a file, **Archive.zip**, that you can submit to [Gradescope](https://gradescope.com/courses/5482/assignments/18815). Please test that you uploaded correctly by downloading your submission, and testing that downloaded version in Xcode.
+Once you're done, submit **all of your project files** in a zipped folder to [Gradescope](https://gradescope.com/courses/5482/assignments/18815).
